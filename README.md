@@ -1,68 +1,15 @@
 # HEARTAGRAM ITALIA
 
-### Ville Valo · HIM · VV · Love Metal
+Ville Valo · HIM · VV · Love Metal. Archivio indipendente curato da Salvatore Sinatra.
 
-**Archivio musicale, culturale e visivo indipendente in lingua italiana.**
+## Versione GitHub 1.2 — 16 ottobre 2026
 
-A cura di **Salvatore Sinatra**. Progetto editoriale dedicato alla storia degli HIM, al percorso artistico di Ville Valo e VV, al simbolismo Heartagram e alla cultura del *love metal*.
+Homepage e 28 pagine integrate dalla struttura del progetto originale [Sites v1.1](https://heartagram-italia-v11.free-trail-0346.chatgpt.site/). Ora sono disponibili discografia, schede singoli album in studio, biografie, storia, simbolismo, cronologia, fotografie, crediti, privacy e mappa. Interfaccia responsive, SEO, sitemap e GitHub Actions che pubblica ricorsivamente tutti gli asset anziché soltanto index.html.
 
-> **Edizione statica v1.1:** questa repository pubblica un adattamento della homepage del sito originale, non l'esportazione completa di tutte le sue pagine e fotografie.
+Non si tratta di una esportazione esatta del codice Sites: per i contenuti approfonditi o fotografie non ancora verificati e importati resta disponibile la versione completa originale.
 
-## Collegamenti
+Sito: https://salvatoresinatra0001-ux.github.io/heartagram-italia/
 
-- **GitHub Pages:** https://salvatoresinatra0001-ux.github.io/heartagram-italia/
-- **Progetto Sites originale:** https://heartagram-italia-v11.free-trail-0346.chatgpt.site/
-- **Music Archives Italia:** https://salvatoresinatra0001-ux.github.io/music-archives-italia/heartagram-italia/
-- **Archivio storico Ville Valo / HIM:** https://salvatoresinatra0001-ux.github.io/music-archives-italia/ville-valo-him-heartagram-italia/
+## Crediti
 
-## Categorie editoriali
-
-| Categoria | Ambito |
-| --- | --- |
-| Artisti | Ville Valo, HIM, VV |
-| Generi musicali | Love metal, gothic rock, alternative metal |
-| Discografia | Album, EP, singoli e collaborazioni |
-| Storia musicale | Biografie, cronologie, contesto |
-| Cultura visiva | Heartagram, artwork, fotografia |
-| Archivio digitale | Fonti, documentazione, attribuzioni |
-
-## Discografia di riferimento
-
-| Anno | Artista | Album |
-| --- | --- | --- |
-| 1997 | HIM | Greatest Lovesongs Vol. 666 |
-| 2000 | HIM | Razorblade Romance |
-| 2001 | HIM | Deep Shadows and Brilliant Highlights |
-| 2003 | HIM | Love Metal |
-| 2005 | HIM | Dark Light |
-| 2007 | HIM | Venus Doom |
-| 2010 | HIM | Screamworks: Love in Theory and Practice |
-| 2013 | HIM | Tears on Tape |
-| 2023 | VV | Neon Noir |
-
-## Tecnologie e deployment
-
-HTML5, CSS3, design responsive, GitHub Pages e GitHub Actions. Il workflow `.github/workflows/deploy-pages.yml` pubblica `index.html` su push al branch `main`.
-
-Per abilitare la pubblicazione: **Settings → Pages → Build and deployment → GitHub Actions**. Verificare l'esito in **Actions**.
-
-## Topics suggeriti
-
-`heartagram` · `ville-valo` · `him` · `vv` · `love-metal` · `gothic-rock` · `music-archive` · `italian-fansite` · `github-pages` · `music-history` · `discography` · `salvatore-sinatra`
-
-I Topics sono metadati della repository: vanno aggiunti in **About → Edit repository details**.
-
-## Sviluppi previsti
-
-- Ampliare biografie, cronologie e schede discografiche.
-- Integrare fotografie e artwork esclusivamente nel rispetto di licenze e attribuzioni.
-- Migliorare accessibilità, metadati SEO e navigazione.
-- Integrare l'esportazione completa del sito originale, quando disponibile.
-
-## Indipendenza editoriale e copyright
-
-Questo è un **fan project indipendente**, non ufficiale e non affiliato a Ville Valo, HIM, VV, management o etichette discografiche. Nomi, marchi, loghi, immagini e copertine appartengono ai rispettivi titolari dei diritti. Il codice pubblicato non conferisce licenze sui materiali protetti di terzi.
-
-**Curatela:** Salvatore Sinatra · Fotografia, arti visive e ricerca editoriale indipendente · Italia.
-
-© 2026 Salvatore Sinatra — Heartagram Italia.
+Le fotografie di esempio sono collegate a Wikimedia Commons, con credito e licenza nelle singole pagine. Il resto dei materiali precedentemente presenti nella repository è stato preservato. Fan project indipendente, non affiliato ad artisti, management o etichette. © Salvatore Sinatra 2026.
