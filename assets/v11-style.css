@@ -19,3 +19,5 @@ footer{padding:55px 0;border-top:1px solid var(--l);background:#120e14}.foot{dis
 @media(max-width:850px){.nav{display:block}.links{margin-top:18px}.grid{grid-template-columns:repeat(2,1fr)}.foot{grid-template-columns:1fr 1fr}}
 @media(max-width:570px){.hero{padding:75px 0}.pagehead{padding:65px 0}.section{padding:55px 0}.grid,.photos,.foot{grid-template-columns:1fr}.map{columns:1}.photos img{height:360px}.card{min-height:190px}.links{gap:13px}.links a{font-size:10px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+[hidden]{display:none!important}
