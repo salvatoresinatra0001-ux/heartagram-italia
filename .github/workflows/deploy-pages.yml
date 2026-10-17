@@ -1,4 +1,4 @@
-name: Pubblica Heartagram Italia
+name: Deploy Heartagram Italia V3.0 to GitHub Pages
 
 on:
   push:
@@ -11,35 +11,24 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: github-pages
   cancel-in-progress: true
 
 jobs:
   deploy:
-    runs-on: ubuntu-24.04
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
-
-      - name: Prepara sito statico
-        shell: bash
-        run: |
-          test -f index.html
-          mkdir -p _site
-          rsync -a --exclude='.git/' --exclude='.github/' --exclude='_site/' --exclude='README*' --exclude='docs/' --exclude='*.md' ./ _site/
-          touch _site/.nojekyll
-
-      - name: Configura GitHub Pages
-        uses: actions/configure-pages@v6
-
-      - name: Carica artefatto
-        uses: actions/upload-pages-artifact@v5
+        uses: actions/checkout@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
-
-      - name: Pubblica GitHub Pages
+          path: .
+      - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4

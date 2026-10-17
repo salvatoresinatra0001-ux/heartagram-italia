@@ -1,24 +1,35 @@
-# HEARTAGRAM ITALIA
+# Heartagram Italia — GitHub Pages V3.0
 
-Ville Valo · HIM · VV · Love Metal. Archivio indipendente curato da Salvatore Sinatra.
+**HIM · Ville Valo — Heartagram Italia** — archivio editoriale indipendente dedicato a HIM, Ville Valo e VV.
 
-## Versione GitHub 1.2 — 16 ottobre 2026
+## Anteprima / URL previsto
 
-Homepage e 28 pagine integrate dalla struttura del progetto originale [Sites v1.1](https://heartagram-italia-v11.free-trail-0346.chatgpt.site/). Ora sono disponibili discografia, schede singoli album in studio, biografie, storia, simbolismo, cronologia, fotografie, crediti, privacy e mappa. Interfaccia responsive, SEO, sitemap e GitHub Actions che pubblica ricorsivamente tutti gli asset anziché soltanto index.html.
+https://salvatoresinatra0001-ux.github.io/heartagram-italia/
 
-Non si tratta di una esportazione esatta del codice Sites: per i contenuti approfonditi o fotografie non ancora verificati e importati resta disponibile la versione completa originale.
+## Contenuti
 
-Sito: https://salvatoresinatra0001-ux.github.io/heartagram-italia/
+- Homepage e 30 pagine/sezioni HTML statiche
+- Galleria fotografica interattiva, ricerca, filtri e lightbox
+- 47 fotografie locali e miniature WebP (45 originali già presenti nel repository precedente + 2 aggiuntive)
+- Discografia, biografie, cronologia, storie, fonti e privacy
+- HTML5, CSS3, JavaScript senza build step o dipendenze runtime
+- GitHub Actions per il deploy automatico su GitHub Pages
 
-## Crediti
+## Pubblicazione
 
-Le fotografie di esempio sono collegate a Wikimedia Commons, con credito e licenza nelle singole pagine. Il resto dei materiali precedentemente presenti nella repository è stato preservato. Fan project indipendente, non affiliato ad artisti, management o etichette. © Salvatore Sinatra 2026.
+1. Caricare **il contenuto di questo ZIP alla radice** del repository `salvatoresinatra0001-ux/heartagram-italia` sul ramo `main` (non la cartella contenitore).
+2. In **Settings → Pages → Build and deployment → Source**, selezionare **GitHub Actions**.
+3. Verificare **Actions → Deploy Heartagram Italia V3.0 to GitHub Pages**.
+4. Visitare https://salvatoresinatra0001-ux.github.io/heartagram-italia/ .
 
-## Aggiornamento archivio fotografico — Versione 2.2 · 17 ottobre 2026
+Attenzione: caricare il ZIP come singolo file nella repository NON pubblica il sito. Occorre estrarre e caricare i file, o usare `git` per aggiungerli al repository.
 
-- 45 file immagine importati da Google Drive nel ramo `main`: 10 dall'archivio 2007, 34 dall'archivio 2008 e un file dalla raccolta digitale.
-- Galleria interattiva: [Fotografie / Archivio Drive](fotografie/archivio-drive/index.html), con filtri cronologici, layout responsive e ingrandimento in lightbox.
-- Manifest fotografico: [data/drive-photo-gallery.json](data/drive-photo-gallery.json).
-- Compatibilità tra percorsi GitHub Pages e Netlify tramite `netlify.toml`.
+## Struttura e percorsi
 
-**Precisazioni:** le fotografie storiche hanno risoluzioni variabili e alcune non sono HD; autore, licenza e condizioni di pubblicazione sono da verificare singolarmente. Gli ulteriori file originali più pesanti presenti su Drive non sono ancora inclusi. Il progetto Netlify è stato creato, ma non è ancora collegato al repository e non esiste un deploy verificato.
+Tutti i percorsi assoluti sono prefissati con `/heartagram-italia/` per GitHub Pages, inclusi CSS, JS, fotografie, JSON, link interni, sitemap e canonical. Non usare questo ZIP direttamente su un dominio Netlify alla radice senza ricostruire i percorsi.
+
+## Licenze e diritti
+
+Il possesso dei file non costituisce autorizzazione alla loro ripubblicazione. Prima di rendere pubblico il sito, verificare per ogni fotografia provenienza, attribuzione, licenza e permessi. Il progetto è indipendente, non ufficiale e non affiliato a HIM, Ville Valo, VV o ai loro rappresentanti.
+
+Curatela editoriale: Salvatore Sinatra.
