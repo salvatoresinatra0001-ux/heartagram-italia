@@ -1,0 +1,250 @@
+{
+  "version": "2.1",
+  "count": 27,
+  "note": "Materiali provenienti dall'archivio personale Drive; autore e licenza di ogni singola fotografia da confermare. Nessuna dichiarazione di paternità fotografica.",
+  "photos": [
+    {
+      "id": "07-01",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 01",
+      "src": "../../assets/images/drive/2007/him-2007-01.png",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-02",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 02",
+      "src": "../../assets/images/drive/2007/him-2007-02.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-03",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 03",
+      "src": "../../assets/images/drive/2007/him-2007-03.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-04",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 04",
+      "src": "../../assets/images/drive/2007/him-2007-04.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-05",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 05",
+      "src": "../../assets/images/drive/2007/him-2007-05.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-06",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 06",
+      "src": "../../assets/images/drive/2007/him-2007-06.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-07",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 07",
+      "src": "../../assets/images/drive/2007/him-2007-07.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-08",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 08",
+      "src": "../../assets/images/drive/2007/him-2007-08.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-09",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 09",
+      "src": "../../assets/images/drive/2007/him-2007-09.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "07-10",
+      "year": "2007",
+      "category": "2007",
+      "title": "HIM · Archivio 2007 · 10",
+      "src": "../../assets/images/drive/2007/him-2007-10.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-01",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 01",
+      "src": "../../assets/images/drive/2008/him-2008-01.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-02",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 02",
+      "src": "../../assets/images/drive/2008/him-2008-02.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-03",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 03",
+      "src": "../../assets/images/drive/2008/him-2008-03.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-04",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 04",
+      "src": "../../assets/images/drive/2008/him-2008-04.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-05",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 05",
+      "src": "../../assets/images/drive/2008/him-2008-05.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-06",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 06",
+      "src": "../../assets/images/drive/2008/him-2008-06.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-07",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 07",
+      "src": "../../assets/images/drive/2008/him-2008-07.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-08",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 08",
+      "src": "../../assets/images/drive/2008/him-2008-08.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-09",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 09",
+      "src": "../../assets/images/drive/2008/him-2008-09.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-10",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 10",
+      "src": "../../assets/images/drive/2008/him-2008-10.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-11",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 11",
+      "src": "../../assets/images/drive/2008/him-2008-11.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-12",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 12",
+      "src": "../../assets/images/drive/2008/him-2008-12.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-13",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 13",
+      "src": "../../assets/images/drive/2008/him-2008-13.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-14",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 14",
+      "src": "../../assets/images/drive/2008/him-2008-14.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-15",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 15",
+      "src": "../../assets/images/drive/2008/him-2008-15.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-16",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 16",
+      "src": "../../assets/images/drive/2008/him-2008-16.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "social-01",
+      "year": "Archivio",
+      "category": "other",
+      "title": "Ville Valo · Archivio digitale",
+      "src": "../../assets/images/drive/social/255473907330276.jpg",
+      "rights": "Attribution pending",
+      "quality": "1442 × 960"
+    }
+  ]
+}
