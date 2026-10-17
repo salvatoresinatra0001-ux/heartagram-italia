@@ -9,3 +9,10 @@
   [headers.values]
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Compatibility: existing GitHub Pages root-relative navigation.
+[[redirects]]
+  from = "/heartagram-italia/*"
+  to = "/:splat"
+  status = 200
+
