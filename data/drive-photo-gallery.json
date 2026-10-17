@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "count": 27,
+  "version": "2.2",
+  "count": 45,
   "note": "Materiali provenienti dall'archivio personale Drive; autore e licenza di ogni singola fotografia da confermare. Nessuna dichiarazione di paternità fotografica.",
   "photos": [
     {
@@ -234,6 +234,168 @@
       "category": "2008",
       "title": "HIM · Archivio 2008 · 16",
       "src": "../../assets/images/drive/2008/him-2008-16.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-17",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 17",
+      "src": "../../assets/images/drive/2008/him-2008-17.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-18",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 18",
+      "src": "../../assets/images/drive/2008/him-2008-18.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-19",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 19",
+      "src": "../../assets/images/drive/2008/him-2008-19.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-20",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 20",
+      "src": "../../assets/images/drive/2008/him-2008-20.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-21",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 21",
+      "src": "../../assets/images/drive/2008/him-2008-21.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-22",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 22",
+      "src": "../../assets/images/drive/2008/him-2008-22.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-23",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 23",
+      "src": "../../assets/images/drive/2008/him-2008-23.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-24",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 24",
+      "src": "../../assets/images/drive/2008/him-2008-24.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-25",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 25",
+      "src": "../../assets/images/drive/2008/him-2008-25.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-26",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 26",
+      "src": "../../assets/images/drive/2008/him-2008-26.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-27",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 27",
+      "src": "../../assets/images/drive/2008/him-2008-27.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-28",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 28",
+      "src": "../../assets/images/drive/2008/him-2008-28.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-29",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 29",
+      "src": "../../assets/images/drive/2008/him-2008-29.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-30",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 30",
+      "src": "../../assets/images/drive/2008/him-2008-30.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-31",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 31",
+      "src": "../../assets/images/drive/2008/him-2008-31.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-32",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 32",
+      "src": "../../assets/images/drive/2008/him-2008-32.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-33",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 33",
+      "src": "../../assets/images/drive/2008/him-2008-33.jpg",
+      "rights": "Attribution pending",
+      "quality": "Original archive"
+    },
+    {
+      "id": "08-34",
+      "year": "2008",
+      "category": "2008",
+      "title": "HIM · Archivio 2008 · 34",
+      "src": "../../assets/images/drive/2008/him-2008-34.jpg",
       "rights": "Attribution pending",
       "quality": "Original archive"
     },
