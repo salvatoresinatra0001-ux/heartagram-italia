@@ -1,0 +1,88 @@
+{
+  "version": "2.0-beta",
+  "status": "metadata-only",
+  "source": "Google Drive / H.I.M / New",
+  "notice": "File sorgente non ancora copiati su GitHub. Non pubblicare prima di verifica di licenza e qualità.",
+  "items": [
+    {
+      "id": 1,
+      "filename": "ville-valo-portrait-01.jpg",
+      "subject": "Ville Valo",
+      "category": "portrait",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 2,
+      "filename": "him-provinssirock-2006-01.jpg",
+      "subject": "HIM",
+      "category": "live",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 3,
+      "filename": "him-band-archive-01.jpg",
+      "subject": "HIM",
+      "category": "band",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 4,
+      "filename": "him-band-archive-02.jpg",
+      "subject": "HIM",
+      "category": "band",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 5,
+      "filename": "him-photo-archive-03.jpg",
+      "subject": "HIM",
+      "category": "archive",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 6,
+      "filename": "him-promo-02.jpg",
+      "subject": "HIM",
+      "category": "promo",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 7,
+      "filename": "him-promo-03.jpg",
+      "subject": "HIM",
+      "category": "promo",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 8,
+      "filename": "him-untitled-01.bmp",
+      "subject": "Da identificare",
+      "category": "review",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 9,
+      "filename": "him-untitled-02.bmp",
+      "subject": "Da identificare",
+      "category": "review",
+      "rights": "unverified",
+      "published": false
+    },
+    {
+      "id": 10,
+      "filename": "him-untitled-03.bmp",
+      "subject": "Da identificare",
+      "category": "review",
+      "rights": "unverified",
+      "published": false
+    }
+  ]
+}
