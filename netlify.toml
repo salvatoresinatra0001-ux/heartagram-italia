@@ -14,5 +14,5 @@
 [[redirects]]
   from = "/heartagram-italia/*"
   to = "/:splat"
-  status = 200
+  status = 301
 
