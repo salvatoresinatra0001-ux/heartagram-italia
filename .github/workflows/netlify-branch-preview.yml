@@ -1,0 +1,31 @@
+name: Netlify branch preview
+on:
+  push:
+    branches: ['release/v3-1-domini-20261021']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  netlify-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check preview credentials
+        id: auth
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: |
+          if [ -z "$NETLIFY_AUTH_TOKEN" ]; then
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "Netlify preview not deployed: add NETLIFY_AUTH_TOKEN to the repository Actions secrets." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Create isolated draft deploy on existing Netlify project
+        if: steps.auth.outputs.available == 'true'
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: npx --yes netlify-cli@latest deploy --dir="." --site="2a15007f-e3be-47d2-bf9d-68a2237da461" --alias="heartagram-v31-review" --message="Preview release/v3-1-domini-20261021" --json
