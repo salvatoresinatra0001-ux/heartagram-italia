@@ -1,0 +1,26 @@
+name: Normalize site paths on release
+on:
+  push:
+    branches:
+      - 'release/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Normalize all canonical and asset paths
+        run: python3 tools/normalize_release.py
+      - name: Commit normalized pages to the release branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u
+          if ! git diff --cached --quiet; then
+            git commit -m "fix: normalize canonical and asset paths for Netlify [skip ci]"
+            git push
+          fi
