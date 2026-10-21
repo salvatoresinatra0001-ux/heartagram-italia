@@ -1,0 +1,24 @@
+name: Release QA and static packages
+on:
+  push:
+    branches:
+      - 'release/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate-and-package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and build preview and offline packages
+        run: python3 tools/static_release.py --root ${{ github.event.repository.name == 'mesh-italia' && 'site' || '.' }} --name ${{ github.event.repository.name }}
+      - name: Upload both packages and QA report
+        uses: actions/upload-artifact@v4
+        with:
+          name: static-release-${{ github.run_number }}
+          path: |
+            dist/*-PREVIEW.zip
+            dist/*-FINALE-OFFLINE.zip
+            dist/*-qa-report.json
+          retention-days: 30
